@@ -69,7 +69,8 @@ streamlit run WEB.py
 
 ## 📸 Preview
 
-*(Add a screenshot or GIF of the app here)*
+<img width="1901" height="985" alt="Screenshot 2026-07-19 001052 - Copy" src="https://github.com/user-attachments/assets/8f7479cb-fab3-4e80-aa71-283b6b3a9b62" />
+
 
 ## 🗺️ Roadmap
 
